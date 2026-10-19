@@ -4,7 +4,6 @@
 
 [![Language](https://img.shields.io/badge/Language-C99-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Standard](https://img.shields.io/badge/Standard-POSIX%20Shell%20(IEEE%201003.1)-green?style=for-the-badge)](https://pubs.opengroup.org/onlinepubs/9699919799/)
-[![School](https://img.shields.io/badge/42_Madrid-School_Project-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42madrid.com/)
 [![Memory](https://img.shields.io/badge/Valgrind-Zero%20Leaks-brightgreen?style=for-the-badge)](https://valgrind.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
